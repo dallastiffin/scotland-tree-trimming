@@ -1,0 +1,27 @@
+{
+  "name": "Scotland Tree Service",
+  "short_name": "Scotland Tree",
+  "description": "Tree trimming, tree removal, dead branch removal and emergency storm damage cleanup in Scotland, Ontario.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#12474B",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

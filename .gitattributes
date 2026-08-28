@@ -1,0 +1,9 @@
+# The site is generated on Linux and served from Cloudflare. Line
+# endings are pinned to LF so the cache fingerprints that build.py
+# stamps into every page keep matching the files on disk.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.webp binary
+*.ico binary

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Cloudflare / wrangler local state
+.wrangler/
+node_modules/
+
+# Note: the master photos ARE tracked on purpose. They are the originals
+# that build.py --images reworks into site/images/. They are never served
+# to visitors, because only site/ is deployed.
+
+# Scratch folders used while preparing the build. The device bridge cannot
+# delete files on Windows, so anything superseded gets parked in _to_delete
+# rather than removed.
+_src/
+_s2/
+_s3/
+_thumbs/
+_probe/
+_staging/
+_to_delete/
+
+# Delivery archives and one-off scripts - duplicates of site/ that would
+# otherwise be committed and then shipped to Cloudflare on every deploy.
+*.zip
+push-to-github.ps1
+commit-message.txt
+
+# ---- MASTER PHOTOGRAPHS ARE NOT TRACKED ----
+# ~103 MB a repo, never served to a visitor, and already present in
+# the Tree Trimming root and in the delivery zip. Committing them
+# pushed the repo past what an HTTPS push will carry reliably.
+# build.py --images still reads them out of the working folder.
+*.png
+!Logo.png
+!site/images/*.png
