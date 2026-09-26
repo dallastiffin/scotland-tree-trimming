@@ -210,7 +210,7 @@ TOPBAR_AREA = "Scotland, Oakland &amp; the south of the County"
 HERO_PLACE = "Scotland, Ontario · on the Oakland line"
 
 # Footer map. The pb= form, which needs no API key.
-MAP_EMBED = ("https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d46000!2d-80.3743!3d43.0246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1780000000004!5m2!1sen!2sca")
+MAP_EMBED = ("https://www.google.com/maps/embed?pb=!1m3!2m1!1sScotland,+Ontario,+Canada!6i14")
 
 # Contact form placeholders.
 PHONE_PLACEHOLDER   = "226-000-0000"
