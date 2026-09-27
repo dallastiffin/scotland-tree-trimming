@@ -36,7 +36,7 @@ Wet soil produces rapid growth, rapid growth produces weak timber, and weak timb
 
 Our tree trimming calendar is set by the oak ridge crossing this area. A fungal disease called oak wilt is fatal to oak, and beetles drawn to fresh sap ferry it from one tree to the next.
 
-Warm weather is the only time those beetles are on the wing. The very same cut in January is entirely safe, and that is why we place all oak tree trimming inside the dormant months.
+Warm weather is the only time those beetles are on the wing. The very same cut in January is entirely safe, and that is why we place all oak [tree trimming](https://cooksvilletreeservice.com/) inside the dormant months.
 
 ## What Happens During A Tree Trimming Visit?
 
@@ -162,7 +162,7 @@ Call (226) 546-3840.
 
 When water runs out, a tree lets go of whatever costs the most to keep alive, and that is always the highest wood it carries.
 
-It explains the shape of most dead branch removal jobs on this crest. There is bare wood at the very top and healthy foliage everywhere below. No infection is involved. The tree hit a water shortage and cut its losses.
+It explains the shape of most [dead branch removal](https://malverntreetrimming.com/) jobs on this crest. There is bare wood at the very top and healthy foliage everywhere below. No infection is involved. The tree hit a water shortage and cut its losses.
 
 ## Why Is It Different On The Wet Ground Toward Oakland?
 
@@ -283,7 +283,7 @@ Call (226) 546-3840.
 
 ## Why Is Tree Removal Cheap On Open Country?
 
-For tree removal, nothing beats a tree standing in the open. The truck goes right up to the stem, cut sections land on grass, and the chipper waits within a few strides.
+For [tree removal](https://www.sarniatreeservice.ca/), nothing beats a tree standing in the open. The truck goes right up to the stem, cut sections land on grass, and the chipper waits within a few strides.
 
 A great many properties around Scotland are exactly that, and the tree removal price reflects it. Fields, fence lines and long driveways all make for straightforward work.
 
@@ -410,7 +410,7 @@ Without neighbours crowding it, a tree grows broad and frequently splits into a 
 
 Tree cabling and bracing goes well above the union, about two thirds of the distance to the ends of the branches. From there the cable checks the extremes of movement without concentrating stress in a single place.
 
-Some movement is meant to remain. Reaction wood forms only where a tree bends, so the purpose is trimming the worst of the swing, not eliminating it.
+Some movement is meant to remain. Reaction wood forms only where a tree bends, so the purpose is [trimming](https://www.stgeorgetreeservice.ca/) the worst of the swing, not eliminating it.
 
 ## Should The Crown Be Reduced As Well?
 
@@ -453,7 +453,7 @@ Call (226) 546-3840.
 
 ## How Does Stump Grinding Work?
 
-Stump grinding turns a cutting wheel fitted with hardened teeth at speed and takes the stump apart in thin slices, moving lower and wider with each pass until nothing stands above the lawn.
+[Stump grinding](https://donmillstreeservice.com/) turns a cutting wheel fitted with hardened teeth at speed and takes the stump apart in thin slices, moving lower and wider with each pass until nothing stands above the lawn.
 
 By default we leave the resulting chip in place to fill the hole, with soil spread over the top.
 

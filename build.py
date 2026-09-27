@@ -1287,7 +1287,7 @@ def faq_accordion(sec, id_prefix):
 
     ld = {"@context": "https://schema.org", "@type": "FAQPage",
           "mainEntity": [{"@type": "Question", "name": qq,
-                          "acceptedAnswer": {"@type": "Answer", "text": " ".join(aa)}}
+                          "acceptedAnswer": {"@type": "Answer", "text": " ".join(_MD_LINK.sub(lambda _m: _m.group(1), _x) for _x in aa)}}
                          for qq, aa in pairs]}
     html_out = f"""
 <!-- ============================= FAQ ACCORDION ============================= -->
