@@ -212,7 +212,8 @@
      file hard at the edge and build.py stamps a content hash onto the script
      URL, so without the rebuild the new endpoint never reaches anyone who has
      already visited. */
-  var SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfycbwBGxgK5Vt6wW80Go4-atJvaopNPJtxBQ9MCleNGVjlu8JJqAYsKPL0AO8b384EUkmXLQ/exec';
+  var SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfycbyUzWIbd-lu-Lbsx4iQWj0bLN1fqSG2pyzyhrR7O4clNP8Rx0wFUqknTYX8_Cjhx77fng/exec';
+  var SITE_KEY = 'scotland-tree-service';
 
   /* Fallback for CORS trouble. Leave false. If submissions are reaching
      the sheet but the page still shows an error, set this to true: the
@@ -310,6 +311,7 @@
         // Which form on which page produced this lead
         data.source = form.getAttribute('data-source') || document.title;
         data.pageUrl = window.location.href;
+        data.site = SITE_KEY;
 
         var button = form.querySelector('button[type="submit"]');
         var originalText = button ? button.textContent : '';
